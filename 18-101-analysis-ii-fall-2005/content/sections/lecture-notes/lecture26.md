@@ -1,0 +1,12 @@
+---
+course_id: 18-101-analysis-ii-fall-2005
+description: 'This resource explains the topics: proper maps and degree.'
+file_location: /coursemedia/18-101-analysis-ii-fall-2005/d732efbb2960d6eaf4b0a8f02dc846d7_lecture26.pdf
+file_type: application/pdf
+layout: pdf
+title: lecture26.pdf
+type: course
+uid: d732efbb2960d6eaf4b0a8f02dc846d7
+
+---
+None
